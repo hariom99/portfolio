@@ -9,7 +9,7 @@ export default function Contact() {
 
 
             <div className="contact">
-                <div>
+                <div id="contact" >
                     <h3>Let's connect</h3>
                     <p> Lets's have conversation, We can have communication
                         via Email, Phone or You can reach out to me by filling

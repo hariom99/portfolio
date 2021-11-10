@@ -12,7 +12,7 @@ import Clock from "../../images/resume-images/clock.png"
 export default function Resume() {
     return (
         <>
-            <h2 className="portfolio-heading" >Resume</h2>
+            <h2 id="resume" className="portfolio-heading" >Resume</h2>
             <div className="resume-container" >
                 <div className="resume">
 

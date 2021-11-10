@@ -7,7 +7,7 @@ import Project5 from "../../images/portfolio-projects/project5.png"
 
 export default function Portfolio() {
     return (
-        <div>
+        <div id="portfolio">
             <h2 className="portfolio-heading" >My Portfolio</h2>
             <div className="projects">
                 <img className="prt-img projects-img1" src={Project1} alt="project1" />

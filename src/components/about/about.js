@@ -12,11 +12,11 @@ export default function About() {
             <div className="about-img">
             </div>
             <div className="about-text" >
-                <h2 className="about-heading" >About Me</h2>
+                <h2 id="about" className="about-heading" >About Me</h2>
                 <p>
                     I'm a web designer & front end developer.
                     I'm interested in all kinds of visual
-                    communication, but my major focus is on designing web, mobile and
+                    communication, but my major focus is on web designing , mobile and
                     tablet interfaces. I also have skills in other fields
                     like branding, icon design or web development.
                 </p>
