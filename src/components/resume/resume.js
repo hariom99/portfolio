@@ -28,7 +28,7 @@ export default function Resume() {
                                 <p>Year : 2017</p>
                             </li>
                             <li><h3>B.Tech</h3>
-                                <p>Technocrats Institute of Techmology And science Bhopal</p>
+                                <p>Technocrats Institute of Technology And science Bhopal</p>
                                 <p>Year : 2021</p>
                             </li>
 
